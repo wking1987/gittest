@@ -5,5 +5,6 @@ return array(
 	'alikey' => '3333',
 	'wechat' => 'this is master branch',
 	'ali' => 'this is wechat branch',
+	'local' => 'git hub',
 );
 ?>
